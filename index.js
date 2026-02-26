@@ -1,2 +1,3 @@
 const express = require('express'); // Import the Express library
-console.log('Hello, Express!');
+
+const server = express(); // Create an instance of an Express server
